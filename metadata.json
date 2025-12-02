@@ -1,0 +1,5 @@
+{
+  "name": "AI Chatbot Tester (RAG)",
+  "description": "Một công cụ kiểm thử Chatbot AI chuyên nghiệp. Tải lên dữ liệu kiến thức (Context) và chat trực tiếp với mô hình Gemini 2.5 Flash để kiểm tra khả năng trả lời dựa trên dữ liệu cung cấp.",
+  "requestFramePermissions": []
+}
